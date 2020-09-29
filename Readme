@@ -1,0 +1,2 @@
+This program works by extracting 80 bits from a file created by the user and then the user will add a key in hexa format (there is a method for transformin hexa in bytes), then
+you the user can use the command from the while loop to apply the XOR algorithm for those 80 bits and they will be stored in another file. There is a CRC algorithm too and other more.
